@@ -1,4 +1,4 @@
-package org.utn;
+package org.utn.binario;
 
 public class NodoABinario {
   private int valor;

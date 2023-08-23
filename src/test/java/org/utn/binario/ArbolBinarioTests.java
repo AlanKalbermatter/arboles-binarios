@@ -1,6 +1,7 @@
-package org.utn;
+package org.utn.binario;
 
 import org.junit.jupiter.api.Test;
+import org.utn.binario.ArbolBinario;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,4 +1,4 @@
-package org.utn;
+package org.utn.binario;
 
 import java.util.LinkedList;
 import java.util.Queue;
